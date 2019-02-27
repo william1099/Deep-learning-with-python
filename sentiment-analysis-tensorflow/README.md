@@ -36,6 +36,6 @@ network model
 
 ## Result
 
-The accuracy achieved during testing is about 58% which is far from perfect. While it is not perfect, it can be used to help at
+The accuracy achieved during testing is about 56% which is far from perfect. While it is not perfect, it can be used to help at
 understanding how sentiment analysis works and how to build neural network model to apply them. if you want to get a better 
 accuracy, you can use much more dataset or implement RNN or CNN model to it.
